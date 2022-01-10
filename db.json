@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "status": 0,
+      "process": 0,
+      "team": [
+        "Person-1",
+        "Person-2"
+      ],
+      "title": "Smth",
+      "important": "normal",
+      "id": 1
+    }
+  ],
+  "status": [],
+  "persons": []
+}
